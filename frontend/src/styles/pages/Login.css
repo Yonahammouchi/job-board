@@ -1,0 +1,39 @@
+.center_login {
+    width: 100%;
+    height: 100vh;
+
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.flex_login {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+
+    width: 400px;
+}
+
+.flex_login input {
+    width: 100%;
+    margin: 10px;
+    margin-top: 20px;
+    padding: 13px;
+    border-radius: 50px;
+    border-width: 2px;
+    border-color: black;
+}
+
+.flex_login button {
+    margin: 20px;
+    padding: 10px;
+    border-radius: 50px;
+}
+
+.flex_login p {
+    margin: 20px 0 10px 0;
+}
